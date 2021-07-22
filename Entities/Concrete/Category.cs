@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Reflection.Metadata;
 using System.Security.Principal;
 using System.Text;
-using Entities.Abstract;
+using Core.Entities;
 
 namespace Entities.Concrete
 {

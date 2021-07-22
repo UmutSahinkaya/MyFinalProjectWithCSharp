@@ -2,11 +2,10 @@
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
-using Entities.Abstract;
-using Entities.Concrete;
+using Core.Entities;
 
-namespace DataAccess.Abstract
-{
+namespace Core.DataAccess
+{ 
     //Generic Constraint
     //class:Referans tip olabilir
     //IEntity : IEntity olabilir veya IEntity implemente eden nesne de olabilir.
